@@ -1,5 +1,4 @@
 # Finger flexion prediction on the publicly available BCI competition IV dataset 4
-## Prediction results:
 ### Transformer Encoder with Wavelet Transform
 #### Good Cases
 <p align="center">
