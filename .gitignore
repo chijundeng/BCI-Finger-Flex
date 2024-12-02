@@ -1,2 +1,6 @@
 .DS_Store
 .ipynb_checkpoints
+
+#排除Dataset文件夹
+dataset/
+codes_self/
