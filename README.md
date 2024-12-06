@@ -12,5 +12,5 @@
   <img src="https://github.com/user-attachments/assets/9df30bf5-c4cc-4176-bab4-e75a6e506e57" alt="little" style="width:49%; margin:0;">
 </p>
 
-#### Overall metrics
+#### Overall Metrics
 ![pred_metrics](https://github.com/user-attachments/assets/df9ef25f-75d6-4eaf-8bf8-14c5c527510f)
